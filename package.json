@@ -1,21 +1,13 @@
 {
-  "name": "js-proj-template CHANGEME",
+  "name": "test-driven-development",
   "version": "1.0.0",
-  "description": "Javascript project template CHANGEME",
-  "main": "webpack.common.js CHANGEME",
+  "description": "TDD",
+  "main": "",
   "devDependencies": {
     "@eslint/js": "^9.32.0",
     "eslint_d": "^14.3.0",
     "globals": "^16.3.0",
-    "prettier": "^3.6.2",
-    "css-loader": "^7.1.2",
-    "html-loader": "^5.1.0",
-    "html-webpack-plugin": "^5.6.3",
-    "style-loader": "^4.0.0",
-    "webpack": "^5.100.2",
-    "webpack-cli": "^6.0.1",
-    "webpack-dev-server": "^5.2.2",
-    "webpack-merge": "^6.0.1"
+    "prettier": "^3.6.2"
   },
   "scripts": {
     "build": "webpack --config webpack.prod.js",
@@ -26,5 +18,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PearMeow/test-driven-development.git"
+  },
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PearMeow/test-driven-development/issues"
+  },
+  "homepage": "https://github.com/PearMeow/test-driven-development#readme"
 }
