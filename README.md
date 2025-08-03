@@ -9,7 +9,6 @@ Features
 - Some feature
 - A feature, and maybe more to come
 
-
 How to use this project
 -----------------------
 
