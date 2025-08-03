@@ -6,16 +6,18 @@ Test Driven Development practice
 Features
 --------
 
-- [ ] Some feature
-- [ ] A feature, and maybe more to come
+- [x] Capitalize function that capitalizes the first char of a string
+- [x] Reverse string function that reverses a string
+- [x] Calculator object that can do basic operations
+- [x] Caesar cipher that shifts alphabetical characters only
+- [x] Array analyzer that shows average, min, max, and length of array
 
 How to use this project
 -----------------------
 
-Clone the repo, and then...
+Clone the repo, and then run `npm test`.
 
 Credits
 -------
 
-[Something by some person]()  
-[Something by some other person]()
+All me, baby.
