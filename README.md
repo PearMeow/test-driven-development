@@ -18,5 +18,5 @@ Visit the live version [here]()! Or clone the repo and run `npm run build` in th
 Credits
 -------
 
-[Something by some person]()
+[Something by some person]()  
 [Something by some other person]()
