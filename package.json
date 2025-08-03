@@ -23,6 +23,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PearMeow/test-driven-development.git"
